@@ -65,13 +65,13 @@ Desabilitando medidas de segurança da VM no windows 10: <br/>
  Resultado do scan com credenciais: <br/>
   <br>
  <img src="https://i.imgur.com/30dPiTJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<br/>
  <br>
- Resultado do scan com um navegador web depreciado instalado na VM: <br/>
+Resultado do scan com um navegador web depreciado instalado na VM: <br/>
+  <br>
  <img src="https://i.imgur.com/2ZLZ1E6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/u7Vxu4T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
- <br>
+<br/>
 </p>
 
 <!--
